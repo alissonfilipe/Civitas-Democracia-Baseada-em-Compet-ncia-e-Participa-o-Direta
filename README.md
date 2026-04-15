@@ -242,10 +242,11 @@ Exemplo:
 
 ---
 
-### 🌎 Direito de Mobilidade
+### 🌎 Direito de Mobilidade e Maioridade
 
 Dentro do sistema Civitas:
 
+> a maioridade será discutida nos estados ("podendo assim um estado ser 14 e outro 16,18,20,21")
 > Todo cidadão possui direito pleno de ir e vir entre estados.
 
 Isso garante liberdade individual e cria um mecanismo natural de equilíbrio:
