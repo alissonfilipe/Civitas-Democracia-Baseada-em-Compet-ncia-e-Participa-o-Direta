@@ -160,10 +160,10 @@ Tomar decisões coletivas eficientes e sustentáveis
 
 O Civitas estabelece uma divisão clara e objetiva de competências entre os níveis de decisão, garantindo organização, eficiência e responsabilidade. Cada nível atua dentro de seu escopo, respeitando uma hierarquia bem definida:
 
-Carta Magna da União
-Estado  
-Cidade 
-Bairro 
+- Carta Magna da União
+- Estado  
+- Cidade 
+- Bairro 
 
 Essa estrutura evita conflitos de atribuição e garante que decisões sejam tomadas no nível mais adequado.
 
