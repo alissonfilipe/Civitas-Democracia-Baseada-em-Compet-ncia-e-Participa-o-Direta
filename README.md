@@ -156,6 +156,133 @@ Tomar decisões coletivas eficientes e sustentáveis
 
 ---
 
+## 🧭 Competência por Nível de Governança
+
+O Civitas estabelece uma divisão clara e objetiva de competências entre os níveis de decisão, garantindo organização, eficiência e responsabilidade. Cada nível atua dentro de seu escopo, respeitando uma hierarquia bem definida:
+
+Carta Magna da União
+Estado  
+Cidade 
+Bairro 
+
+Essa estrutura evita conflitos de atribuição e garante que decisões sejam tomadas no nível mais adequado.
+
+---
+
+### 🏘️ Competência do Bairro
+
+O bairro é responsável por decisões que impactam diretamente o cotidiano dos cidadãos. São questões locais, práticas e imediatas, onde o conhecimento da realidade é essencial.
+
+#### 📌 Exemplos de competência:
+
+- Políticas de vizinhança:
+  - Controle de volume de som  
+  - Regulamentação de festas e eventos  
+  - Normas de convivência  
+
+- Construção civil:
+  - Regras para construção de casas  
+  - Padronizações básicas urbanas  
+
+- Infraestrutura local:
+  - Gestão de lixo  
+  - Limpeza urbana  
+  - Saneamento básico e esgoto  
+  - Regulamentação de poços artesianos  
+
+- Meio ambiente:
+  - Políticas de preservação local  
+  - Exigências ambientais (ex: obrigatoriedade de árvores por residência)  
+  - Cuidados com áreas verdes  
+
+📌 Princípio-chave:
+
+> O bairro resolve problemas do dia a dia com base na realidade local.
+
+---
+
+### 🏙️ Competência da Cidade
+
+A cidade possui uma função altamente estratégica e específica dentro do sistema:
+
+> A cidade é responsável exclusivamente pela política monetária.
+
+Isso inclui:
+
+- Controle de circulação de recursos  
+- Definição de diretrizes econômicas locais  
+- Estabilidade financeira  
+- Gestão de arrecadação e compensações fiscais  ("porém terá na constituição estadual cota mínima e máxima de imposto")
+
+📌 Importante:
+
+A cidade não interfere nas decisões do bairro nem do estado. Sua atuação é focada e técnica, garantindo estabilidade econômica ao sistema.
+
+---
+
+### 🏛️ Competência do Estado
+
+O estado é responsável por decisões estruturais, jurídicas e de alta complexidade, que exigem padronização dentro de seu território.
+
+#### 📌 Exemplos de competência:
+
+- Legislação penal  
+- Direito civil e normas jurídicas amplas  
+- Política de armas  
+- Direitos e deveres fundamentais  
+
+📌 Autonomia estadual:
+
+Cada estado pode definir suas próprias regras dentro desses temas.
+
+Exemplo:
+
+- Um estado pode proibir determinado item  
+- Outro pode permitir  
+
+---
+
+### 🌎 Direito de Mobilidade
+
+Dentro do sistema Civitas:
+
+> Todo cidadão possui direito pleno de ir e vir entre estados.
+
+Isso garante liberdade individual e cria um mecanismo natural de equilíbrio:
+
+- Se um cidadão não concorda com as leis de um estado  
+- Ele pode se deslocar para outro com regras mais alinhadas aos seus valores  
+
+---
+
+### 📜 Hierarquia das Normas
+
+A estrutura normativa segue a seguinte ordem:
+
+1. Carta Magna da União dos Estados  
+2. Estado  
+3. Cidade  
+4. Bairro  
+
+📌 Regra fundamental:
+
+- Nenhum nível pode contrariar o nível superior  
+- Cada nível atua dentro de sua competência  
+- O sistema é hierárquico, mas com autonomia funcional  
+
+---
+
+## ⚖️ Princípio Central
+
+> Decisões devem ser tomadas no nível mais próximo do problema, respeitando a hierarquia e a especialização de cada esfera.
+
+Esse modelo garante:
+
+- Eficiência  
+- Clareza de responsabilidades  
+- Redução de conflitos institucionais  
+- Maior alinhamento entre decisão e impacto real  
+
 ## 📈 Perspectiva de Análise de Dados
 
 O Civitas permite análises como:
