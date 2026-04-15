@@ -281,7 +281,143 @@ Esse modelo garante:
 - Eficiência  
 - Clareza de responsabilidades  
 - Redução de conflitos institucionais  
-- Maior alinhamento entre decisão e impacto real  
+- Maior alinhamento entre decisão e impacto real
+
+## 📜 Constituição da União dos Estados
+
+No modelo Civitas, a União dos Estados será regida por uma **Constituição de caráter minimalista e principiológico**, limitada à definição de normas estruturantes essenciais para a manutenção da ordem, da liberdade e da coesão federativa.
+
+Trata-se de uma Constituição baseada no conceito de **Estado mínimo normativo**, inspirada em correntes do constitucionalismo que defendem a limitação do poder central e a descentralização administrativa, com forte influência de autores como:
+
+- Friedrich Hayek (ordem espontânea e limitação do poder estatal)  
+- James Buchanan (teoria da escolha pública)  
+- Montesquieu (separação de poderes e equilíbrio institucional)  
+
+---
+
+### ⚖️ Natureza Jurídica
+
+A Constituição da União dos Estados terá natureza de:
+
+- **Norma fundamental rígida**  
+- **Caráter principiológico**  
+- **Baixa densidade normativa**  
+
+Ou seja:
+
+> Não terá função intervencionista, mas sim estruturante e garantidora de direitos fundamentais.
+
+---
+
+### 🧭 Competências da União dos Estados
+
+A União atuará exclusivamente em matérias essenciais, sendo vedada a ampliação de sua atuação para além do núcleo constitucional.
+
+#### 📌 Competências principais:
+
+- Garantia do **direito fundamental de locomoção (direito de ir e vir)**  
+- Manutenção da **integridade territorial da União**  
+- Proibição de secessão (vedação à saída de estados da União)  
+- Definição dos limites constitucionais mínimos e máximos de atuação estatal  
+- Estabelecimento de princípios gerais do sistema  
+
+---
+
+### 🚫 Vedação à Secessão
+
+Com o objetivo de garantir estabilidade institucional:
+
+> É expressamente vedado a qualquer estado ou região se desvincular da União dos Estados para تشکیل um ente soberano independente.
+
+Esse princípio assegura:
+
+- Segurança jurídica  
+- Continuidade institucional  
+- Previsibilidade sistêmica  
+
+---
+
+### 💰 Regime Fiscal e Tributário
+
+O modelo fiscal adotado segue o princípio da **descentralização arrecadatória e da subsidiariedade administrativa**, segundo o qual:
+
+> A gestão dos recursos deve ocorrer no nível mais próximo do cidadão.
+
+#### 📊 Distribuição da arrecadação tributária:
+
+- **80% → Cidade**  
+- **10% → Estado**  
+- **10% → União dos Estados**  
+
+---
+
+### 📉 Ausência de Equalização Regional
+
+Diferentemente de modelos federativos tradicionais, não haverá:
+
+- Transferências obrigatórias entre estados  
+- Políticas de equalização regional  
+- Redistribuição compulsória de riqueza entre entes federativos  
+
+Ou seja:
+
+> Cada estado e cidade será integralmente responsável por sua arrecadação, gestão e desenvolvimento.
+
+---
+
+### 🧱 Limitação do Poder Central
+
+A União dos Estados não possuirá competência para:
+
+- Interferir na economia local dos estados ou cidades  
+- Redistribuir renda entre regiões  
+- Criar políticas públicas descentralizadas  
+- Expandir sua atuação além do previsto constitucionalmente  
+
+Esse modelo se alinha ao princípio da:
+
+- **Subsidiariedade**  
+- **Eficiência administrativa**  
+- **Autonomia federativa plena**  
+
+---
+
+### 🏛️ Princípios Estruturantes
+
+A Constituição será orientada pelos seguintes princípios:
+
+- Liberdade individual  
+- Segurança jurídica  
+- Autonomia dos entes federativos  
+- Responsabilidade fiscal  
+- Administração próxima ao cidadão  
+- Limitação do poder estatal  
+
+---
+
+### ⚠️ Ressalva Importante
+
+O presente projeto aborda, até o momento, **exclusivamente a organização do Poder Legislativo** dentro do modelo Civitas.
+
+As estruturas relativas a:
+
+- **Poder Jurisdicional (Judiciário)**  
+- **Poder Administrativo (Executivo)**  
+
+ainda serão desenvolvidas em etapas futuras do projeto.
+
+---
+
+## 💡 Síntese Conceitual
+
+> A União dos Estados existe para garantir liberdade, estabilidade e regras básicas — não para governar diretamente a vida dos cidadãos.
+
+Esse modelo propõe uma inversão da lógica tradicional:
+
+- Menos centralização  
+- Mais autonomia local  
+- Mais responsabilidade individual e coletiva  
+```
 
 ## 📈 Perspectiva de Análise de Dados
 
